@@ -4,10 +4,10 @@ round corner button
 a simple round corner button component for Android
 
 supports following attributes:
-RoundCornerBorderButton_borderColor - the color of the border
-RoundCornerBorderButton_borderColorFocused - the color of the border when focused
-RoundCornerBorderButton_borderColorPressed - the color of the border when pressed
-RoundCornerBorderButton_borderColorDisabled - the color of the border when disabled
+- RoundCornerBorderButton_borderColor - the color of the border
+- RoundCornerBorderButton_borderColorFocused - the color of the border when focused
+- RoundCornerBorderButton_borderColorPressed - the color of the border when pressed
+- RoundCornerBorderButton_borderColorDisabled - the color of the border when disabled
 
 RoundCornerBorderButton_backgroundColor 
 RoundCornerBorderButton_backgroundColorFocused
