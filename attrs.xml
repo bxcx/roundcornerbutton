@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="RoundCornerBorderButton">
+        <attr name="borderColor" format="color"/>
+        <attr name="borderColorFocused" format="color"/>
+        <attr name="borderColorPressed" format="color"/>
+        <attr name="borderColorDisabled" format="color"/>
+
+        <attr name="backgroundColor" format="color"/>
+        <attr name="backgroundColorFocused" format="color"/>
+        <attr name="backgroundColorPressed" format="color"/>
+        <attr name="backgroundColorDisabled" format="color"/>
+
+        <attr name="borderRadius" format="dimension"/>
+        <attr name="borderRadiusLeftTop" format="dimension"/>
+        <attr name="borderRadiusRightTop" format="dimension"/>
+        <attr name="borderRadiusRightBottom" format="dimension"/>
+        <attr name="borderRadiusLeftBottom" format="dimension"/>
+
+        <attr name="textColorFocused" format="color"></attr>
+        <attr name="textColorPressed" format="color"></attr>
+        <attr name="textColorDisabled" format="color"></attr>
+
+        <attr name="borderWidth" format="dimension"/>
+        <attr name="borderWidthFocused" format="dimension"/>
+        <attr name="borderWidthPressed" format="dimension"/>
+        <attr name="borderType">
+            <enum name="none" value="0"></enum>
+            <enum name="all" value="1"></enum>
+            <enum name="top_bottom" value="2"></enum>
+            <enum name="left_right" value="3"></enum>
+        </attr>
+    </declare-styleable>
+
+</resources>
